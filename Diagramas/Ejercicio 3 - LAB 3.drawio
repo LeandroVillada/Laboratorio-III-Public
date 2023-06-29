@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-29T04:26:47.955Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="eZaVKSA8pzzl36BBoh7T" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-29T04:28:25.976Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Yqbi9dbwWbh8z8lZ4je0" version="21.5.1" type="github">
   <diagram name="Página-1" id="SRd3oAynorppFmsBYYN7">
-    <mxGraphModel dx="2010" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1183" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,14 +142,14 @@
         </mxCell>
         <mxCell id="0un2Plr5lw4UfMRJ4hNn-62" value="Transacciones" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="375" y="295" width="130" height="50" as="geometry">
-            <mxRectangle x="375" y="295" width="105" height="160" as="alternateBounds" />
+            <mxRectangle x="375" y="295" width="125" height="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0un2Plr5lw4UfMRJ4hNn-63" value="PK &lt;u&gt;NroTransaccion_T&lt;/u&gt;&lt;br&gt;DNI_Cliente_T&lt;br&gt;CodCuenta_T&lt;br&gt;CodSucursal_T&lt;br&gt;Fecha_T&lt;br&gt;Tipo_Trans_T&lt;br&gt;Monto_T" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="0un2Plr5lw4UfMRJ4hNn-62">
-          <mxGeometry y="50" width="105" height="110" as="geometry" />
+          <mxGeometry y="50" width="125" height="110" as="geometry" />
         </mxCell>
         <mxCell id="0un2Plr5lw4UfMRJ4hNn-64" value="Sucursales" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry y="400" width="160" height="120" as="geometry">
+          <mxGeometry x="29" y="400" width="160" height="120" as="geometry">
             <mxRectangle x="30" y="400" width="110" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -157,7 +157,7 @@
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0un2Plr5lw4UfMRJ4hNn-66" value="Cuentas" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="160" y="400" width="160" height="120" as="geometry">
+          <mxGeometry x="189" y="400" width="160" height="120" as="geometry">
             <mxRectangle x="270" y="420" width="80" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -165,7 +165,7 @@
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0un2Plr5lw4UfMRJ4hNn-68" value="CuentasXClientes" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="320" y="400" width="160" height="120" as="geometry">
+          <mxGeometry x="349" y="400" width="160" height="120" as="geometry">
             <mxRectangle x="380" y="420" width="125" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -173,7 +173,7 @@
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0un2Plr5lw4UfMRJ4hNn-70" value="Clientes" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="480" y="400" width="160" height="120" as="geometry">
+          <mxGeometry x="509" y="400" width="160" height="120" as="geometry">
             <mxRectangle x="610" y="410" width="90" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -181,7 +181,7 @@
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0un2Plr5lw4UfMRJ4hNn-74" value="Transacciones" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="640" y="400" width="130" height="160" as="geometry">
+          <mxGeometry x="669" y="400" width="130" height="160" as="geometry">
             <mxRectangle x="660" y="420" width="130" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
