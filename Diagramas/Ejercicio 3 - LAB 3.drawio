@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-30T06:39:50.954Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="fc2F06YcAUiZeDAEASdQ" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-01T06:50:30.673Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="CLjep3Ku1Nb2zMtrcSjn" version="21.5.2" type="github">
   <diagram name="Página-1" id="SRd3oAynorppFmsBYYN7">
-    <mxGraphModel dx="1420" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="979" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -153,7 +153,7 @@
             <mxRectangle x="30" y="400" width="110" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0un2Plr5lw4UfMRJ4hNn-65" value="PK &lt;u&gt;Cod_Sucursal_S&lt;/u&gt;&lt;br&gt;Direccion_S" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;fontFamily=Helvetica;fontColor=default;" parent="0un2Plr5lw4UfMRJ4hNn-64" vertex="1">
+        <mxCell id="0un2Plr5lw4UfMRJ4hNn-65" value="PK &lt;u&gt;Cod_Sucursal_S&lt;/u&gt;&lt;br&gt;Direccion_S&lt;br&gt;Nombre_S" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;fontFamily=Helvetica;fontColor=default;" parent="0un2Plr5lw4UfMRJ4hNn-64" vertex="1">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0un2Plr5lw4UfMRJ4hNn-66" value="Cuentas" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
@@ -188,8 +188,8 @@
         <mxCell id="0un2Plr5lw4UfMRJ4hNn-75" value="PK &lt;u&gt;NroTransaccion_T&lt;/u&gt;&lt;br&gt;DNI_Cliente_T&lt;br&gt;CodCuenta_T&lt;br&gt;CodSucursal_T&lt;br&gt;Fecha_T&lt;br&gt;Tipo_Trans_T&lt;br&gt;Monto_T" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;fontFamily=Helvetica;fontColor=default;" parent="0un2Plr5lw4UfMRJ4hNn-74" vertex="1">
           <mxGeometry y="50" width="130" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="f7Q4hKNYixfwZv-z0ea2-1" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="350" width="60" height="30" as="geometry" />
+        <mxCell id="f7Q4hKNYixfwZv-z0ea2-1" value="DICCIONARIO DE DATOS" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="55" y="350" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
